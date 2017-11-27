@@ -1,4 +1,4 @@
-# 2. Identifica los elementos de navegación en los siguientes sites
+# Reto 2. Identifica los elementos de navegación en los siguientes sites
 
 ### Tipos de Navegación
 
@@ -23,14 +23,14 @@
 #### Suplementaria
 - Es la navegación adicional, a veces temporal, utilizada para señalar algunas funciones a nuevos usuarios
 
-###### Breather
+## Breather
 * Revisar archivos assets/pdf/breather-navigation.pdf  o  assets/doc/breather-navigation.doc
 ![Inicio](assets/images/breather.jpg)
 
-###### Github
+## Github
 * Revisar archivos assets/pdf/github-navigation.pdf  o  assets/doc/github-navigation.doc
 ![Inicio](assets/images/github.jpg)
 
-###### Medium
+## Medium
 * Revisar archivos assets/pdf/medium-navigation.pdf  o  assets/doc/medium-navigation.doc
 ![Inicio](assets/images/medium.jpg)
